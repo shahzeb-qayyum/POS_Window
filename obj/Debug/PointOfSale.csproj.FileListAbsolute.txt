@@ -1,0 +1,12 @@
+D:\Dev\OOPs\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\Dev\OOPs\PointOfSale\bin\Debug\PointOfSale.exe
+D:\Dev\OOPs\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.csproj.AssemblyReference.cache
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.csproj.SuggestedBindingRedirects.cache
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.exe
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.pdb
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.Databaselayer.frm_Customer.resources
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.Databaselayer.frm_POS.resources
