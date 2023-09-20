@@ -10,7 +10,7 @@ using PointOfSale.Databaselayer;
 using PointOfSale.Model;
 using System.Windows.Forms;
 
-namespace PointOfSale.Databaselayer
+namespace PointOfSale
 {
     public partial class frm_Customer : Form
     {
@@ -115,7 +115,7 @@ namespace PointOfSale.Databaselayer
             }
             if (shouldSave == true)
             {
-                Clustomrrepository repo = new Clustomrrepository();
+                CustomerRepository repo = new CustomerRepository();
                 bool result = repo.Insert(mycustomer);
                 if (result)
                 {

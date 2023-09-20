@@ -8,7 +8,7 @@ using PointOfSale.Model;
 using System.Data.SqlClient;
 namespace PointOfSale.Databaselayer
 {
-    public class Clustomrrepository
+    public class CustomerRepository
     {
         public bool Insert(Customer obj)
         {

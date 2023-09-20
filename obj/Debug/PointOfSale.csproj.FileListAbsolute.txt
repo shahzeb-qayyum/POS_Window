@@ -8,5 +8,5 @@ D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
 D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
 D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.exe
 D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.pdb
-D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.Databaselayer.frm_Customer.resources
-D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.Databaselayer.frm_POS.resources
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.frm_Customer.resources
+D:\Dev\OOPs\PointOfSale\obj\Debug\PointOfSale.frm_POS.resources

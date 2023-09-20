@@ -1,4 +1,4 @@
-﻿namespace PointOfSale.Databaselayer
+﻿namespace PointOfSale
 {
     partial class frm_Customer
     {
